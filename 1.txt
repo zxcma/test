@@ -1,0 +1,94 @@
+武器化
+Composite Moniker：CVE-2017-8570 PoC。https://github.com/rxwx/CVE-2017-8570
+
+Exploit toolkit CVE-2017-8759：一个方便的python脚本，它为测试者和安全研究人员提供了一种快速有效的方式来测试Microsoft .NET Framework RCE。https://github.com/bhdresh/CVE-2017-8759
+
+CVE-2017-11882 Exploit：最多接受超过17k字节长度的命令/代码。https://github.com/unamer/CVE-2017-11882
+
+Adobe Flash Exploit：CVE-2018-4878。https://github.com/anbai-inc/CVE-2018-4878
+
+Exploit toolkit CVE-2017-0199：一个方便的python脚本，它为测试人员和安全研究人员提供了一种快速有效的方式来测试Microsoft Office RCE。https://github.com/bhdresh/CVE-2017-0199
+
+demiguise：HTA加密工具。https://github.com/nccgroup/demiguise
+
+Office-DDE-Payloads：收集脚本和模板以生成嵌入DDE的Office文档，无宏命令执行技术。https://github.com/0xdeadbeefJERKY/Office-DDE-Payloads
+
+CACTUSTORCH：是一个生成payload的框架,可用于基于James Forshaw的DotNetToJScript工具的攻防对抗。https://github.com/mdsecactivebreach/CACTUSTORCH
+
+SharpShooter：用于检索和执行任意CSharp源码的payload创建框架。https://github.com/mdsecactivebreach/SharpShooter
+
+Don’t kill my cat：用于生成被存储在polyglot图像中的混淆shellcode。https://github.com/Mr-Un1k0d3r/DKMC
+
+Malicious Macro Generator Utility：生成混淆宏，其中还包括AV/Sandboxes逃避机制。https://github.com/Mr-Un1k0d3r/MaliciousMacroGenerator
+
+SCT Obfuscator：Cobalt Strike SCT有效载荷混淆器。https://github.com/Mr-Un1k0d3r/SCT-obfuscator
+
+Invoke-Obfuscation：PowerShell混淆器。https://github.com/danielbohannon/Invoke-Obfuscation
+
+Invoke-DOSfuscation：powershell混淆编码框架。https://github.com/danielbohannon/Invoke-DOSfuscation
+
+Unicorn：使用PowerShell降级攻击并将shellcode直接注入内存的工具。https://github.com/trustedsec/unicorn
+
+Shellter：一个动态的shellcode注入工具，也是有史以来第一个真正动态的PE注入工具。https://www.shellterproject.com/
+
+SigThief：是一个由python编写的,可以用于劫持合法的数字签名并绕过Windows的哈希验证机制的脚本工具。https://github.com/secretsquirrel/SigThief
+
+Veil：用于生成绕过常用AV的metasploit有效载荷的工具。https://github.com/Veil-Framework/Veil
+
+CheckPlease：用PowerShell，Python，Go，Ruby，C，C＃，Perl和Rust编写的CheckPlease Sandbox evasion模块。https://github.com/Arvanaghi/CheckPlease
+
+Invoke-PSImage：将目标PS脚本嵌入到一个PNG图片文件的像素点中，并允许我们使用一行指令来执行该脚本。https://github.com/peewpw/Invoke-PSImage
+
+LuckyStrike：基于PowerShell的实用程序，用于创建恶意的Office宏文档。仅用于渗透测试或教育目的。https://github.com/curi0usJack/luckystrike
+
+ClickOnceGenerator：适用于红队的快速恶意ClickOnce生成器。https://github.com/Mr-Un1k0d3r/ClickOnceGenerator
+
+macro_pack：一个用于自动生成混淆过的MS Office文档、VB脚本等其他格式的工具,其主要目的是用于渗透测试、demo以及社会工程学的评估。https://github.com/sevagas/macro_pack
+
+StarFighters：基于JavaScript和VBScript的Empire启动器。https://github.com/Cn33liz/StarFighters
+
+nps_payload：专为逃避入侵检测而生成Payload的工具。https://github.com/trustedsec/nps_payload
+
+SocialEngineering：负责收集用于证书盗窃和鱼叉式网络钓鱼攻击的社交工程技巧和payloads。https://github.com/bhdresh/SocialEngineeringPayloads
+
+Social-Engineer Toolkit：一款专为社交工程设计的开源渗透测试框架。https://github.com/trustedsec/social-engineer-toolkit
+
+Phishery：一个支持SSL简单的HTTP服务器。https://github.com/ryhanson/phishery
+
+PowerShdll：使用rundll32运行PowerShell。绕过软件限制。https://github.com/p3nt4/PowerShdll
+
+Ultimate AppLocker ByPass List：常用AppLocker绕过技术存储库。https://github.com/api0cradle/UltimateAppLockerByPassList
+
+Ruler：是一款能够通过MAPI/HTTP协议与Exchange服务器交互的工具。https://github.com/sensepost/ruler
+
+Generate-Macro：一个独立的PowerShell脚本，它将生成具有指定有效负载和持久性方法的恶意Microsoft Office文档。https://github.com/enigma0x3/Generate-Macro
+
+Malicious Macro MSBuild Generator ：生成恶意宏并通过MSBuild应用程序白名单绕过执行Powershell或Shellcode。https://github.com/infosecn1nja/MaliciousMacroMSBuild
+
+Meta Twin：一个文件资源克隆器。从一个文件中提取元数据，包括数字签名，并注入到另一个文件中。https://github.com/threatexpress/metatwin
+
+WePWNise：生成独立于体系结构的VBA代码，用于Office文档或模板，并自动绕过应用程序控制。https://github.com/mwrlabs/wePWNise
+
+DotNetToJScript：能够利用JS/Vbs脚本加载.Net程序的工具。https://github.com/tyranid/DotNetToJScript
+
+PSAmsi：一个审计和攻击 AMSI 签名的工具。https://github.com/cobbr/PSAmsi
+
+Reflective DLL injection：是一种库注入技术，让DLL自身不使用LoadLibraryA函数,将自身映射到目标进程内存中。https://github.com/stephenfewer/ReflectiveDLLInjection
+
+ps1encode：用于生成和编码基于powershell的metasploit有效载荷。https://github.com/CroweCybersecurity/ps1encode
+
+Worse PDF：将一个普通的PDF文件变成恶意文件。用于从Windows机器上窃取Net-NTLM哈希。https://github.com/3gstudent/Worse-PDF
+
+SpookFlare：一款可帮助你有机会绕过各种安全措施的工具，例如客户端检测和网络端检测的端点策略。SpookFlare还是Meterpreter，Empire，Koadic等的loader/dropper生成器。https://github.com/hlldz/SpookFlare
+
+GreatEST：是一个生成应用程序白名单绕过的开源项目。此工具适用于红蓝对抗。https://github.com/GreatSCT/GreatSCT
+
+nps：运行没有PowerShell的PowerShell。https://github.com/Ben0xA/nps
+
+Meterpreter_Paranoid_Mode.sh：一个可以创建SSL/TLS shell连接的脚本。https://github.com/r00t-3xp10it/Meterpreter_Paranoid_Mode-SSL
+
+The Backdoor Factory：一款安全测试工具,可以轻松的生成win32PE后门测试程序,ELF文件后门程序等。https://github.com/secretsquirrel/the-backdoor-factory
+
+MacroShop：一组脚本，通过Office宏传递有效载荷。https://github.com/khr0x40sh/MacroShop
+
+UnmanagedPowerShell：可以从一个非托管程序来执行PowerShell , 经过一些修改后也可以被用来注入到其他进程。https://github.com/leechristensen/UnmanagedPowerShell
